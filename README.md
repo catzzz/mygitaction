@@ -1,4 +1,0 @@
-# mygitaction
-gitaction test
-
-# test
